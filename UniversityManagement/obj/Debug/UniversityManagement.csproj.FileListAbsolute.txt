@@ -1,0 +1,190 @@
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\UniversityManagement.dll.config
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\UniversityManagement.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\UniversityManagement.pdb
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Antlr3.Runtime.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\EntityFramework.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\EntityFramework.SqlServer.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Newtonsoft.Json.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Owin.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\System.Web.Helpers.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\System.Web.Mvc.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\System.Web.Optimization.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\System.Web.Razor.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.Deployment.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.Razor.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\WebGrease.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\System.Web.Helpers.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\System.Web.Mvc.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\System.Web.Optimization.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\System.Web.Razor.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.Deployment.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.Razor.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Antlr3.Runtime.pdb
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Newtonsoft.Json.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\EntityFramework.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\EntityFramework.SqlServer.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BTIM\Test\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.dll
+D:\BTIM\Test\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.pdb
+D:\BTIM\Test\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addDepartment.resources
+D:\BTIM\Test\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.csproj.GenerateResource.Cache
+D:\BTIM\Test\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addDepartmentUpdate1Tbl.resources
+D:\BTIM\Test\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addCourseTbl.resources
+D:\BTIM\Test\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addDesignationTbl.resources
+D:\BTIM\Test\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.csprojResolveAssemblyReference.cache
+D:\BTIM\Test\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addSaveTeacher.resources
+D:\BTIM\Test\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addAssignTeacher.resources
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\UniversityManagement.dll.config
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\UniversityManagement.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\UniversityManagement.pdb
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Antlr3.Runtime.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\EntityFramework.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\EntityFramework.SqlServer.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.Core.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Cookies.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Facebook.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Google.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.OAuth.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Twitter.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Web.Infrastructure.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Newtonsoft.Json.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Owin.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\System.Web.Helpers.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\System.Web.Mvc.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\System.Web.Optimization.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\System.Web.Razor.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.Deployment.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.Razor.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\WebGrease.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\System.Web.Helpers.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\System.Web.Mvc.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\System.Web.Optimization.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\System.Web.Razor.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.Deployment.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.Razor.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Antlr3.Runtime.pdb
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Newtonsoft.Json.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\EntityFramework.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\EntityFramework.SqlServer.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.Core.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Facebook.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Cookies.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.OAuth.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Google.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Twitter.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.csprojResolveAssemblyReference.cache
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addDepartment.resources
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addDepartmentUpdate1Tbl.resources
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addCourseTbl.resources
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addDesignationTbl.resources
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addSaveTeacher.resources
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addAssignTeacher.resources
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.csproj.GenerateResource.Cache
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.dll
+E:\tanzid(Bitm)13\University Managment\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.pdb
+D:\BTIM\UniversityManagement\UniversityManagement\bin\UniversityManagement.dll.config
+D:\BTIM\UniversityManagement\UniversityManagement\bin\UniversityManagement.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\UniversityManagement.pdb
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Antlr3.Runtime.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\EntityFramework.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\EntityFramework.SqlServer.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Newtonsoft.Json.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Owin.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\System.Web.Helpers.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\System.Web.Mvc.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\System.Web.Optimization.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\System.Web.Razor.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.Deployment.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.Razor.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\WebGrease.dll
+D:\BTIM\UniversityManagement\UniversityManagement\bin\System.Web.Helpers.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\System.Web.Mvc.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\System.Web.Optimization.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\System.Web.Razor.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.Deployment.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\System.Web.WebPages.Razor.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Antlr3.Runtime.pdb
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Newtonsoft.Json.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\EntityFramework.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\EntityFramework.SqlServer.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\BTIM\UniversityManagement\UniversityManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\BTIM\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addDepartment.resources
+D:\BTIM\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addDepartmentUpdate1Tbl.resources
+D:\BTIM\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addCourseTbl.resources
+D:\BTIM\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addDesignationTbl.resources
+D:\BTIM\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addSaveTeacher.resources
+D:\BTIM\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addAssignTeacher.resources
+D:\BTIM\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.csproj.GenerateResource.Cache
+D:\BTIM\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.dll
+D:\BTIM\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.pdb
+D:\BTIM\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addRegisterStudent.resources
+D:\BTIM\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addRegNoinStudent.resources
+D:\BTIM\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addEnrollCourese.resources
+D:\BTIM\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addStudentResult.resources
+D:\BTIM\UniversityManagement\UniversityManagement\obj\Debug\UniversityManagement.Migrations.addTeacherUpdate.resources

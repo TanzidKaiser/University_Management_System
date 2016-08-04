@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <div class="col-md-4">
+        
+        @*class="btn btn-success"*@
+        <div>
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("Department", "Create", "Departments")</li>
+                <li>@Html.ActionLink("View Department", "Index", "Departments")</li>
+                <li>@Html.ActionLink("Course", "Create", "Courses")</li>
+                <li>@Html.ActionLink("Teacher", "Create", "SaveTeachers")</li>
+                <li>@Html.ActionLink("Assign Course", "Create", "CourseAssignTeachers")</li>
+                <li>@Html.ActionLink("View Course", "CreateViewStatics", "CourseAssignTeachers")</li>
+                <li>@Html.ActionLink("Student", "Create", "RegisterStudents")</li>
+                <li>@Html.ActionLink("Enroll Course", "Create", "EnrollCourses")</li>
+                <li>@Html.ActionLink("Student Result", "Create", "SaveStudentResults")</li>
+                <li>@Html.ActionLink("View Result", "ViewReslt", "SaveStudentResults")</li>
+            </ul>
+        </div>
+
+    </div>
+</div>

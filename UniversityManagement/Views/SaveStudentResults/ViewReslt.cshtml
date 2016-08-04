@@ -1,0 +1,151 @@
+﻿@model UniversityManagement.Models.SaveStudentResult
+@{
+    ViewBag.Title = "ViewReslt";
+}
+
+<h2>View Result</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.StudentId, "Student Reg No.", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <select class="form-control" name="StudentId" id="StudentId">
+                    <option value="">Select Reg NO.</option>
+                    @foreach (UniversityManagement.Models.RegisterStudent student in ViewBag.StudentId)
+                    {
+                        <option value="@student.Id">@student.RegNo</option>
+                    }
+                </select>
+
+                @*@Html.DropDownList("StudentId", null, htmlAttributes: new { @class = "form-control" })*@
+                @Html.ValidationMessageFor(model => model.StudentId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Department, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Department, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Department, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+}
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Course Code</th>
+            <th>Name/Title</th>
+            <th>Grade</th>            
+        </tr>
+    </thead>
+    <tbody id="table">
+        @* Populate from ajax  *@
+    </tbody>
+</table>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    @*Get Name By RegId*@
+    <script>
+        $(document).ready(function () {
+
+            $("#StudentId").change(function () {
+                var studentId = $("#StudentId").val();
+                //$("#StudentId").empty();
+
+                var json = { StudentId: studentId, };
+                $.ajax({
+                    type: "Post",
+                    url: '@Url.Action("GetNameEmailDepartmentByStudentId", "EnrollCourses")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (response) {
+
+                        $("#Name").val(response.Name);
+                        $("#Email").val(response.Email);
+                        $("#Department").val(response.DeptName);
+
+
+                    }
+                });
+            });
+        });
+    </script>
+
+    <script>
+        $(document).ready(function () {
+
+            $("#StudentId").change(function () {
+                var studentId = $("#StudentId").val();
+                $("#CourseId").empty();
+                var json = { StuedentId: studentId, };
+                $.ajax({
+                    type: "Post",
+                    url: '@Url.Action("GetCourseStudentId", "EnrollCourses")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (response) {
+                        //alert(data);
+                        $.each(response, function (key, value) {
+                            // alert(value);
+                            $("#CourseId").append('<option value=' + value.Id + '>' + value.Name + '</option>');
+
+                        });
+                    }
+                });
+            });
+        });
+    </script>
+
+<script>
+    $(document).ready(function () {
+        $("#StudentId").change(function () {
+            var studentId = $("#StudentId").val();
+            $("#table").empty();
+            var json = { StudentId: StudentId, };
+            $.ajax({
+                type: "Post",
+                url: '@Url.Action("LoadCourseCodeNameGradeByStudentId", "SaveStudentResults")',
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(json),
+                success: function (response) {
+                    //alert(data);
+                    $.each(response, function (key, value) {
+                        // alert(value);
+                        $("#table").append('<tr><td>' + value.Code + '</td><td>' + value.Name + '</td><td>' + value.Msg + '</td></tr>')
+
+
+
+                    });
+                }
+            });
+        });
+    });
+</script>
+
+}
